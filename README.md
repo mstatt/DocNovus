@@ -1,5 +1,5 @@
 # DocNovus
-Multifile document analysis application
+Multifile document analysis application. Python application that works on a variety of file types: (.txt, .doc, .docx, .pdf and .csv)
 
 #************************************************************************
 
