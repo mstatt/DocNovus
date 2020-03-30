@@ -83,7 +83,7 @@ Last Update on March 30 11:29:03 2020
     >> tar vxf wkhtmltox-0.12.3_linux-generic-amd64.tar.xz
     >> cp wkhtmltox/bin/wk* /usr/local/bin/
     ************************************************************************
-    Inital Run Uncomment the following lines (128-131) to download the NLTK resources, 
+    Inital Run Uncomment the following lines (128-131) in multi_file_processor.py to download the NLTK resources, 
     After the 1st run you can remove or comment them out.
     ************************************************************************
 
