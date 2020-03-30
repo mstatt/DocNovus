@@ -84,7 +84,7 @@ Last Update on March 30 11:29:03 2020
     >> cp wkhtmltox/bin/wk* /usr/local/bin/
     ************************************************************************
     Inital Run Uncomment the following lines (128-131) to download the NLTK resources, 
-    After the 1st run you can remove or commnt them out.
+    After the 1st run you can remove or comment them out.
     ************************************************************************
 
 ************************************************************************
