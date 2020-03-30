@@ -1,6 +1,7 @@
 # DocNovus
 Multifile document analysis application
-    ************************************************************************
+
+#************************************************************************
     Complete multi-file document analysis:
     1) Fuzzy String compare for file similarity
     2) File Summarization
@@ -9,7 +10,7 @@ Multifile document analysis application
     5) File Sentiment Analyzer
     6) Name Entity Extraction
     7) Sentence Frequency counter
-    ************************************************************************
+#************************************************************************
     ## Instructions
     ##---------------------------------------------------
     Prior to running ensure all .txt files are UTF-8 encoded
