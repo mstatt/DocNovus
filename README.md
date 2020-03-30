@@ -2,8 +2,10 @@
 Multifile document analysis application. Python application that works on a variety of file types: (.txt, .doc, .docx, .pdf and .csv).
 
 Created on Tue Dec 13 01:25:12 2017
+
 Last Update on March 30 11:29:03 2020
-@author: MStattelman
+
+@author: Michael Stattelman
 
 #************************************************************************
 
