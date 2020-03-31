@@ -94,7 +94,7 @@ See Quick tutorial in the (DocNovus.mp4) file.
 
 1) Place the Directory in the job_queue folder
 2) Call the script as follows:
-    python run-all.py <foldername>
+    python run-all.py "foldername"
 3) Or to process all folders in the job_queue directory
     python monitor.py 
 ************************************************************************
