@@ -88,7 +88,7 @@ Last Update on March 30 11:29:03 2020
     ************************************************************************
 
 ************************************************************************
-See Quick tutorial <a herf='DocNovus.mp4'>here</a>
+See Quick tutorial in the (DocNovus.mp4) file.
 
 1) Place the Directory in the job_queue folder
 2) Call the script as follows:
