@@ -90,6 +90,8 @@ Last Update on March 30 11:29:03 2020
 ************************************************************************
 See Quick tutorial in the (DocNovus.mp4) file.
 
+**Place all files to be analyzed into a folder. (Folder name can not contain spaces).**
+
 1) Place the Directory in the job_queue folder
 2) Call the script as follows:
     python run-all.py <foldername>
